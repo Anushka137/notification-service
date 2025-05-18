@@ -45,7 +45,7 @@ This is a backend microservice built with **Node.js**, **Express**, **MongoDB**,
 
 ```bash
 git clone https://github.com/yourusername/notification-service.git
-cd notification-service
+cd notification-service```
 
 ### 2. Install Dependencies
 
