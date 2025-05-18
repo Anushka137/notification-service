@@ -108,9 +108,7 @@ You can use [Postman](https://www.postman.com/) or [Thunder Client](https://www.
 ## 🙋‍♀️ Author
 
 **Anushka Shrivastava**
-BTech CSE | Full-stack Developer | [Portfolio](https://anushka137.github.io)
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/anushka137) 💼
+BTech CSE student at KIIT, Bhubaneswar
 
 ## 📄 License
 
